@@ -20,7 +20,7 @@ export default function Home() {
         <div className="text-center">
           <h1 className="text-3xl font-bold">Mariel M. Albaracin</h1>
           <p className="text-gray-600 text-lg mt-2">Front-End Developer</p>
-          <p className="text-sm mt-1">Passionate about crafting elegant and responsive web interfaces.</p>
+          <p className="text-sm mt-1">Passionate about crafting elegant and responsive web interfaces and user experience. </p>
         </div>
       </main>
     </>
